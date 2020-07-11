@@ -37,6 +37,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstrctPerson.cs" />
+    <Compile Include="CommandInterfacer.cs" />
+    <Compile Include="ExitCommand.cs" />
+    <Compile Include="GetStudentListCommand.cs" />
+    <Compile Include="GetTeacherListCommand.cs" />
     <Compile Include="StudentRepository.cs" />
     <Compile Include="Mainz.cs" />
     <Compile Include="Student.cs" />
